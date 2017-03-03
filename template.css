@@ -1,0 +1,17 @@
+body
+{
+background-color:#eeeeee;
+
+}
+p{
+
+color:white;
+}
+.inner{
+margin:10px;
+border:1px solid black;
+background-color:#808080;
+}
+.outer{
+background-color:#A9A9A9;
+}
